@@ -1,2 +1,2 @@
-# stepik2
+# stepik
  
